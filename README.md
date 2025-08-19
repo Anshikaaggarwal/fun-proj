@@ -28,7 +28,7 @@ This project helps **placement cell coordinators** filter eligible students from
 ## ▶️ How to Use (Google Colab)
 
 You can use this project directly in Google Colab without installing anything:  
-👉 [Open Colab Notebook](https://colab.research.google.com/drive/1wOap4MXSRjxNTME18RuvjFRfqcpVHEPa?usp=sharing)
+
 
 ### Steps:
 1. Run all three sections in the Colab notebook.  
